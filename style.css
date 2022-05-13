@@ -59,7 +59,7 @@
     width: 568px;
     top: 64px;
     right: 0;
-    background-color: #2f80ed
+    background-color: #2f80ed;
 }
 .discription {
     width: 80%;
@@ -159,7 +159,7 @@
     font-size: 102px;
     width: 648px;
     text-align: center;
-    margin: 100px auto 70px ;  
+    margin: 100px auto 70px;  
 }
 .feyman__subtitle {
     line-height: 51px;
@@ -230,7 +230,7 @@
     justify-content: space-between;
     width: 90%;
     height: 250px;
-    margin: 60px auto 40px ;
+    margin: 60px auto 40px;
     
 }
 
