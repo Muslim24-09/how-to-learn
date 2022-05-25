@@ -99,14 +99,14 @@
       
 }
    
-.two-columns__paragrapf {
+.two-columns__paragraph {
     line-height: 34px;
     font-size: 24px;
     margin: 0 0 30px;
     
 }
 
-.two-columns__paragrapf:last-child {
+.two-columns__paragraph:last-child {
     margin: 0;
 }
 
@@ -155,7 +155,7 @@
 .table__heading {
     font-size: 24px;
     line-height: 1.15;
-    margin: 20px 0;
+    margin: 0 0 20px 0;
     padding: 0;
     
 }
@@ -303,7 +303,7 @@
   
 .footer__column-heading {
     color: white;
-    margin-bottom: 20px;
+    margin: 0 0 20px 0;
     font-size: 18px;
     line-height: 30px;
 }
