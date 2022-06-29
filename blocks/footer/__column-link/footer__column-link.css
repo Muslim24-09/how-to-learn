@@ -6,4 +6,5 @@
 }
 .footer__column-link:hover {
   opacity: 0.5;
+  transition-duration: 1.5s;
 }
