@@ -1,0 +1,22 @@
+{
+  "name": "how-to-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muslim24-09/how-to-learn.git"
+  },
+  "author": "Muslim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muslim24-09/how-to-learn/issues"
+  },
+  "homepage": "https://Muslim24-09.github.io/how-to-learn/",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
